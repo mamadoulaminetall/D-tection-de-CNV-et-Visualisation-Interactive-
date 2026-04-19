@@ -1,0 +1,10 @@
+platform,resolution_kb,yield_id_pct,yield_asd_pct,yield_mca_pct,cost_usd,time_days,loh_detection
+G-band karyotype,5000.0,3.0,0.5,6.0,250,14,False
+FISH (targeted),100.0,5.0,1.5,10.0,400,3,False
+aCGH 60K,50.0,12.0,7.0,20.0,600,7,False
+aCGH 180K,15.0,15.9,9.5,24.0,800,7,False
+SNP array 300K,10.0,16.5,10.5,25.5,900,7,True
+SNP array 750K,4.0,17.2,11.0,26.8,1100,7,True
+SNP array 4M,0.5,17.8,11.5,27.5,1400,10,True
+WES (CNV calling),0.1,18.5,12.0,28.0,1800,21,False
+WGS (30x),0.05,20.0,13.5,30.0,2500,21,True

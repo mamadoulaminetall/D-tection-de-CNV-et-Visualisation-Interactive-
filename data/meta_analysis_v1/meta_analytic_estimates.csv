@@ -1,0 +1,7 @@
+indication,label,k,n_total,n_diagnostic,yield_pooled,ci_lower,ci_upper,i2_pct,tau2,Q,Q_df
+ID/DD,Intellectual Disability / Developmental Delay,7,54826,8573,15.89,15.21,16.61,72.0,0.00294,21.42,6
+ASD,Autism Spectrum Disorder,5,3433,353,10.31,9.34,11.38,0.0,0.0,2.68,4
+MCA,Multiple Congenital Anomalies,4,4351,1064,24.59,22.91,26.35,38.3,0.00338,4.86,3
+PRE,Prenatal (abnormal ultrasound),3,11255,667,5.93,5.51,6.38,0.0,0.0,0.15,2
+EPI,Epilepsy / Seizure disorder,3,1349,146,10.85,9.31,12.62,0.0,0.0,1.02,2
+PSY,Psychiatric disorders,3,4203,650,14.9,11.91,18.49,74.7,0.03698,7.9,2
