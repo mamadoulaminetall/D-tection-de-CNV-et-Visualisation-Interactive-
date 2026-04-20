@@ -178,7 +178,7 @@ def color_acmg(val):
     return f"background-color:{c}22; color:{c}; font-weight:700;"
 
 st.dataframe(
-    display.style.applymap(color_acmg, subset=["ACMG"]),
+    display.style.map(color_acmg, subset=["ACMG"]),
     use_container_width=True, height=300
 )
 

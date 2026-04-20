@@ -119,7 +119,7 @@ with tab2:
         return "background-color:#f59e0b22; color:#f59e0b; font-weight:700;"
 
     st.dataframe(
-        display.style.applymap(color_type, subset=["Type"]),
+        display.style.map(color_type, subset=["Type"]),
         use_container_width=True, hide_index=True, height=500
     )
 
